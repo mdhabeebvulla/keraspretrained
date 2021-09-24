@@ -1,0 +1,9 @@
+fastapi
+jinja2
+aiofiles
+requests
+uvicorn
+fastai==1.0.61
+tensorflow
+numpy
+python-multipart
